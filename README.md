@@ -1,17 +1,6 @@
----
-title: Ghudsavar
-emoji: 🏇🏻
-colorFrom: gray
-colorTo: green
-sdk: docker
-pinned: false
-license: mit
-app_port: 7860
----
-
 # Ghudsavar 🏇🏻
 
-> Ghudsavar (Horse rider) - Is a quick llama.cpp server for CPU only runtimes, made available as a docker image. Duplicate this [🤗 HF-space](https://huggingface.co/spaces/iAkashPaul/Ghudsavar) as your own CPU/GPU space & change the model weights to your own GGUF file. BTW the free tier with 2 CPU-cores runs between 5-8tok/s with Gemma-2B-Instruct@Q8, which is alright for quick testing.
+Ghudsavar (Horse rider) - Is a quick llama.cpp server for CPU only runtimes, made available as a docker image. Duplicate this [🤗 HF-space](https://huggingface.co/spaces/iAkashPaul/Ghudsavar) as your own CPU/GPU space & change the model weights to your own GGUF file. BTW the free tier with 2 CPU-cores runs between 5-8tok/s with Gemma-2B-Instruct@Q8, which is alright for quick testing.
 
 ## Local setup
 
